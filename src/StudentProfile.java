@@ -10,6 +10,8 @@ public class StudentProfile {
         System.out.println("Name: Nur Syazwani binti Saziri");
         System.out.println("Student ID: S87414");
         System.out.println("Programme: Bachelor of Computer Science(Cloud Computing Security)");
+        System.out.println("Semester: Semester 1");
+        System.out.println("Favourite Language: Java");
     }
     
 }
